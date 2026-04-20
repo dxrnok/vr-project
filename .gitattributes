@@ -1,0 +1,20 @@
+# Unreal Engine binary files
+*.uasset binary
+*.umap binary
+*.uproject binary
+
+# Common binary formats
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.bmp binary
+*.tga binary
+*.tiff binary
+*.psd binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.fbx binary
+*.pak binary
+*.dll binary
+*.exe binary
